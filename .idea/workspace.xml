@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66c6f6fd-9cc4-43af-9cd8-4410b2fa9c2d" name="Changes" comment="Traduciendo al español">
-      <change beforePath="$PROJECT_DIR$/src/main/java/utp/edu/pe/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utp/edu/pe/App.java" afterDir="false" />
+    <list default="true" id="66c6f6fd-9cc4-43af-9cd8-4410b2fa9c2d" name="Changes" comment="3 lineas | Español - Ingles - Portugues">
+      <change afterPath="$PROJECT_DIR$/src/main/java/utp/edu/pe/ServidorHttp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -47,6 +56,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="ServidorHttp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utp.edu.pe.ServidorHttp" />
+      <module name="TestGit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utp.edu.pe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServidorHttp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +92,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678379147683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 lineas | Español - Ingles">
+      <created>1678380485328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678380485328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2 lineas | Español - Ingles - Portugues">
+      <created>1678380674926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678380674926</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3 lineas | Español - Ingles - Portugues">
+      <created>1678380713822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678380713822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +129,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Traduciendo al español" />
-    <option name="LAST_COMMIT_MESSAGE" value="Traduciendo al español" />
+    <MESSAGE value="2 lineas | Español - Ingles" />
+    <MESSAGE value="2 lineas | Español - Ingles - Portugues" />
+    <MESSAGE value="3 lineas | Español - Ingles - Portugues" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 lineas | Español - Ingles - Portugues" />
   </component>
 </project>
