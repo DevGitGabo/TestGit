@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66c6f6fd-9cc4-43af-9cd8-4410b2fa9c2d" name="Changes" comment="3 lineas | Español - Ingles - Portugues">
-      <change afterPath="$PROJECT_DIR$/src/main/java/utp/edu/pe/ServidorHttp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ServidorHttp" />
+        <item itemvalue="Application.ServidorHttp" />
         <item itemvalue="Application.ServidorHttp" />
       </list>
     </recent_temporary>
