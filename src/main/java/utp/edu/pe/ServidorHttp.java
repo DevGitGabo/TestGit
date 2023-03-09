@@ -14,7 +14,8 @@ public class ServidorHttp {
         // Crear un objeto servidor HTTP en el puerto 8000
         HttpServer server = HttpServer.create(new InetSocketAddress(8000), 0);
         // Adjuntar un controlador para la ruta "/test"
-        server.createContext("/test", new MyHandlerTwo());
+        server.createContext("/test", new MyHandler());
+        server.createContext("/", new MyHandlerTwo());
         // Iniciar el servidor
         server.start();
     }
